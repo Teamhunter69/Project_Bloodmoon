@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang=en_US>
+<head>
+<script>
+document.addEventListener('contextmenu', event => event.preventDefault());
+</script>
+<style>
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: yellow;
+}
+</style>
+<title>Geometry Dash Web Version</title>
+<body>
+<h1>Play Geometry Dash Here on Emotion Games</h1>
+<iframe src="https://forkphorus.github.io/embed.html?id=105500895&ui=false" width="480" height="360" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
+<a href="https://teamhunter69.github.io/emotiongames" title="Home">Home Page</a>
+</body>
+</html>
